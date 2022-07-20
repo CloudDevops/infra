@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/CloudDevops/infra
+  url: ssh://git@github.com/CloudDevops/infra
 
